@@ -1,0 +1,11 @@
+#FPGA_GCLK
+NET "CLK" LOC = "N8";
+
+#BTNs
+NET "DIR" LOC = "P8";
+
+#LEDs
+NET "LED<0>" LOC = "N3";
+NET "LED<1>" LOC = "P3";
+NET "LED<2>" LOC = "N4";
+NET "LED<3>" LOC = "P4";
