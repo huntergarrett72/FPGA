@@ -1,4 +1,4 @@
-#Cmod S6
+# Cmod S6
 This repository contains VHDL files for various projects with the Cmod S6 FPGA and Xilinx ISE.
 
 This is purely intended for learning purposes to get started with VHDL for a research project centered around the construction of an 8-bit flash ADC.
